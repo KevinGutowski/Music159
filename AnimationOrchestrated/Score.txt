@@ -1,0 +1,357 @@
+; Antescofo score generated using libmusicxml and embedded xml2antescofo converter.
+; Copyright (c) Thomas Coffy - IRCAM 2013
+BPM 120
+
+; ----------- measure 1 --- beat 1
+NOTE 0 4 measure1
+
+; ----------- measure 2 --- beat 5
+NOTE C4 1 Cmeasure2
+NOTE 0 3
+
+; ----------- measure 3 --- beat 9
+NOTE C4 1 Cmeasure3
+NOTE 0 3
+
+; ----------- measure 4 --- beat 13
+NOTE C4 1/2 Cmeasure4
+NOTE D#4 1/2 E
+NOTE 0 3
+
+; ----------- measure 5 --- beat 17
+NOTE C4 1/4 Cmeasure5
+NOTE D#4 1/4 E
+NOTE G4 1/2 G
+NOTE 0 3
+
+; ----------- measure 6 --- beat 21
+NOTE C4 1/4 Cmeasure6
+NOTE D#4 1/4 E
+NOTE G4 1/2 G
+NOTE 0 3
+
+; ----------- measure 7 --- beat 25
+NOTE C4 1/4 Cmeasure7
+NOTE D#4 1/4 E
+NOTE G4 1/2 G
+NOTE 0 1
+NOTE A#4 1 B
+NOTE G4 1 G
+
+; ----------- measure 8 --- beat 29
+NOTE C4 1/4 Cmeasure8
+NOTE D#4 1/4 E
+NOTE G4 1/2 G
+NOTE 0 1
+NOTE A#4 1 B
+NOTE G4 1 G
+
+; ----------- measure 9 --- beat 33
+NOTE C4 1/4 Cmeasure9
+NOTE D#4 1/4 E
+NOTE G4 1/2 G
+NOTE 0 1
+NOTE A#4 1 B
+NOTE A4 1 A
+
+; ----------- measure 10 --- beat 37
+NOTE C4 1/4 measure10
+NOTE F4 1/4
+NOTE A4 1/2
+NOTE 0 1
+NOTE A4 1
+NOTE G4 1
+
+; ----------- measure 11 --- beat 41
+NOTE C4 1/4 Cmeasure11
+NOTE D#4 1/4 E
+NOTE G4 1/2 G
+NOTE 0 1
+NOTE A#4 1 B
+NOTE D5 1 D
+
+; ----------- measure 12 --- beat 45
+NOTE C5 1/4 Cmeasure12
+NOTE A4 1/4 A
+NOTE F4 1/2 F
+NOTE 0 2
+NOTE A4 1 A
+
+; ----------- measure 13 --- beat 49
+NOTE G#4 1/4 Ameasure13
+NOTE F4 1/4 F
+NOTE C4 1/2 C
+NOTE 0 1
+NOTE G4 1 G
+NOTE D4 1 D
+
+; ----------- measure 14 --- beat 53
+NOTE C4 2 Cmeasure14
+NOTE 0 10
+
+; ----------- measure 17 --- beat 65
+NOTE C4 2 Cmeasure17
+NOTE D#4 2
+
+; ----------- measure 18 --- beat 69
+NOTE G4 7 Gmeasure18
+
+; ----------- measure 19 --- beat 76
+NOTE G4 1 Gmeasure19
+
+; ----------- measure 20 --- beat 77
+NOTE C5 6 Cmeasure20
+
+; ----------- measure 21 --- beat 83
+NOTE A#4 1/4 Bmeasure21
+NOTE C5 1/4 C
+NOTE A#4 7/2 B
+
+; ----------- measure 22 --- beat 87
+NOTE G4 2 Gmeasure22
+
+; ----------- measure 23 --- beat 89
+NOTE F4 4 Fmeasure23
+
+; ----------- measure 24 --- beat 93
+NOTE G4 2 Gmeasure24
+NOTE A#4 2 B
+
+; ----------- measure 25 --- beat 97
+NOTE D#5 2 Emeasure25
+NOTE D5 4 D
+
+; ----------- measure 26 --- beat 103
+NOTE C5 6 Cmeasure26
+
+; ----------- measure 28 --- beat 109
+NOTE 0 4 measure28
+
+; ----------- measure 29 --- beat 113
+NOTE D#4 1/4 measure29
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+
+; ----------- measure 30 --- beat 117
+NOTE D#4 1/4 measure30
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+
+; ----------- measure 31 --- beat 121
+NOTE D4 1/4 measure31
+NOTE D4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D4 1/4
+NOTE D4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D4 1/4
+NOTE D4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D4 1/4
+NOTE D4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+
+; ----------- measure 32 --- beat 125
+NOTE F4 1/4 measure32
+NOTE F4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE F4 1/4
+NOTE F4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE F4 1/4
+NOTE F4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE F4 1/4
+NOTE F4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+
+; ----------- measure 33 --- beat 129
+NOTE D#4 1/4 measure33
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+
+; ----------- measure 34 --- beat 133
+NOTE D4 1/4 measure34
+NOTE D4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D4 1/4
+NOTE D4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D4 1/4
+NOTE D4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D4 1/4
+NOTE D4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+
+; ----------- measure 35 --- beat 137
+NOTE F4 1/4 measure35
+NOTE F4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE F4 1/4
+NOTE F4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE F4 1/4
+NOTE F4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE F4 1/4
+NOTE F4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+
+; ----------- measure 36 --- beat 141
+NOTE F4 1/4 measure36
+NOTE F4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE F4 1/4
+NOTE F4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE F4 1/4
+NOTE F4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE F4 1/4
+NOTE F4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+
+; ----------- measure 37 --- beat 145
+NOTE D#4 1/4 measure37
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+
+; ----------- measure 38 --- beat 149
+NOTE D#4 1/4 measure38
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+NOTE D#4 1/4
+NOTE D#4 1/4
+NOTE C4 1/4
+NOTE C4 1/4
+
+; ----------- measure 39 --- beat 153
+NOTE 0 7 measure39
+
+; ----------- measure 40 --- beat 160
+NOTE C5 1 measure40
+
+; ----------- measure 41 --- beat 161
+NOTE G5 2 measure41
+NOTE F5 2
+
+; ----------- measure 42 --- beat 165
+NOTE F5 1/4 measure42
+NOTE G5 1/4
+NOTE F5 2
+NOTE 0 1/2
+NOTE C5 1
+
+; ----------- measure 43 --- beat 169
+NOTE F5 2 measure43
+NOTE D#5 2
+
+; ----------- measure 44 --- beat 173
+NOTE D#5 1/4 measure44
+NOTE D5 1/4
+NOTE C5 2
+NOTE 0 1/2
+NOTE C5 1
+
+; ----------- measure 45 --- beat 177
+NOTE G5 2 measure45
+NOTE A#5 3/2
+NOTE A5 1/4
+NOTE A#5 1/4
+
+; ----------- measure 46 --- beat 181
+NOTE A5 1 measure46
+NOTE F5 2
+NOTE F5 1
+
+; ----------- measure 47 --- beat 185
+NOTE G#5 2 measure47
+NOTE G5 2
+
+; ----------- measure 48 --- beat 189
+NOTE G5 1/4 measure48
+NOTE G#5 1/4
+NOTE G5 3
+NOTE 0 17/2
